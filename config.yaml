@@ -1,0 +1,8 @@
+path: D:\data_git_oid\OIDv4_ToolKit\OID\Dataset\train\Human_hand  # dataset root dir
+
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Hand
