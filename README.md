@@ -17,5 +17,7 @@ The aim of this project was to apply my theoretical knowledge on artificial inte
 
 
 I have a small sample GIF image to show the model I trained using YOLOv8.
+
+
 ![video_test mp4_out (1)](https://github.com/Ceryunus/Python-AI/assets/86349634/d5b4e282-d4a3-4162-a35d-ae4a0cc711fc)
 
